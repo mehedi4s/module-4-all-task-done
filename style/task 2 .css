@@ -1,0 +1,27 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+
+}
+h3{
+    text-align: center;
+   color: chocolate;
+   text-decoration: underline;
+}
+h4{
+    background-color: red;
+    width: max-content;
+    padding: 5px;
+    margin-left: 20px;
+}
+button{
+    background-color: lightskyblue;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+hr{
+    height: 5px;
+    border-style: dashed;
+    background-color: blue;
+    color: blue;
+}

@@ -1,0 +1,28 @@
+
+
+nav ul{
+    display: flex;
+   
+}
+nav li{
+    list-style: none;
+    padding: 20px;
+}
+nav li a{
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid salmon;
+    padding: 6px;
+    border-radius: 2px;
+    color: chocolate;
+ 
+}
+main, header{
+   background-color: rgb(26, 24, 24); 
+    color: white; 
+   
+}
+nav li a:hover{
+    background-color: chocolate;
+    color: rgb(10, 10, 10);
+}
